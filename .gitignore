@@ -1,0 +1,47 @@
+# Bytecode and Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and output
+logs/
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Distribution/build artifacts
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Test and coverage
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary/system files
+*.bak
+*.tmp
+*~
+*.swp
+
+# Jupyter checkpoints (if ever used)
+.ipynb_checkpoints/
+
+# Ignore .env if you use environment files
+.env
