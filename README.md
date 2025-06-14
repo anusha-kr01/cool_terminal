@@ -17,6 +17,15 @@ A smart terminal-based system monitoring tool that provides real-time insights i
 * [psutil](https://github.com/giampaolo/psutil)
 * [scapy](https://github.com/secdev/scapy)
 
+## 📸 Screenshots
+
+Here’s what Cool Terminal looks like in action:
+
+![Dashboard](assets/ss1.png)
+![Network Monitor](assets/ss2.png)
+![Alerts Panel](assets/ss3.png)
+
+
 ## 📦 Installation
 
 ```bash
